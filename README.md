@@ -1,4 +1,8 @@
 # Mini-Search-Engine
+![Python Version](https://img.shields.io/badge/python-3.8%2B-brightgreen)
+![License](https://img.shields.io/github/license/DeAsiaMcQueen/Mini-Search-Engine)
+![Contributors](https://img.shields.io/github/contributors/DeAsiaMcQueen/Mini-Search-Engine)
+![Last Commit](https://img.shields.io/github/last-commit/DeAsiaMcQueen/Mini-Search-Engine)
 ## **Introduction**
 The Mini Search Engine is a Python-based application that simplifies file and concept searches. It features a dual-function GUI that allows users to search their local device directories for specific files based on keywords and perform detailed concept or historical searches using Wikipedia API. This project showcases the power of Python's file-handling capabilities and API integration.
 ## **Features**
