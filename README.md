@@ -13,6 +13,16 @@ The Mini Search Engine is a Python-based application that simplifies file and co
 3. User-Friendly GUI:
   - Simple tab-based navigation for different search modes.
   - Clear results display with interactive elements.
+## Screenshots
+To better understand the functionality of this application, refer to the screenshots below:
+1. Historical/Concept Search Interface: Demonstrates the search interface for historical and concept queries.
+   - [View Screenshot](screenshots/MSE-historyconcept.png)
+2. Historical/Concept Search Results: Shows search results with summaries and learning resources.
+   - [View Screenshot](screenshots/MSE-historyconcept-search.png)
+3. Device File Search Interface: Illustrates how to specify directories, file types, and keywords.
+   - [View Screenshot](screenshots/MSE-devicefilesearch.png)
+4. Device File Search Results: Displays results with clickable links to open found files.
+   - [View Screenshot](screenshots/MSE-devicefilesearch-found.png)
 ## **Requirements**
 - Python 3.9 or later
 - The following libraries (install by looking at `requirements.md`):
