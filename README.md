@@ -15,7 +15,7 @@ The Mini Search Engine is a Python-based application that simplifies file and co
   - Clear results display with interactive elements.
 ## **Requirements**
 - Python 3.9 or later
-- The following libraries (install via `requirements.txt`):
+- The following libraries (install by looking at `requirements.md`):
   - `requests`
   - `pandas`
   - `PyPDF2`
@@ -25,10 +25,9 @@ The Mini Search Engine is a Python-based application that simplifies file and co
 ## **Installation**
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/YourUsername/Mini-Search-Engine.git
+   git clone https://github.com/DeAsiaMcQueen/Mini-Search-Engine.git
    cd Mini-Search-Engine
-2. Install dependiences
-   - pip install -r requirements.txt
+2. Install dependencies
 3. Run application
    -python mini-search-engine.py
 ## **Usage**
